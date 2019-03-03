@@ -35,3 +35,4 @@ class RestrictedArray
     end
   end
 end
+
